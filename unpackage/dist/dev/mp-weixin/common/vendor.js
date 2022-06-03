@@ -8628,9 +8628,9 @@ function resolveLocaleChain(locale) {
 
 /***/ }),
 /* 5 */
-/*!*********************************************************!*\
-  !*** E:/weixinAPP/uni-app/uni-shop/uni-shop/pages.json ***!
-  \*********************************************************/
+/*!***********************************************!*\
+  !*** F:/uni-app/uni_shop/uni-shop/pages.json ***!
+  \***********************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
